@@ -1,5 +1,9 @@
 # HTB CPTS Review and Experience
 
+
+<img width="1128" height="791" alt="image" src="https://github.com/user-attachments/assets/f7084bf9-07ec-4e77-8ed2-5e389503aa8d" />
+
+
 ## Introduction
 
 The HTB Certified Penetration Testing Specialist (CPTS) ended up being one of the most demanding and rewarding cybersecurity experiences I have completed so far.
